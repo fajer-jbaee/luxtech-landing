@@ -4,7 +4,7 @@ A modern, dark, and elegant landing page design built with **HTML + CSS**.
 Created to showcase a luxury tech brand with professional layout and animations.
 
 ## 🌌 Live Preview
-👉 [View on GitHub Pages](https://fajer-jbaee.github.io/luxtech-landing)
+👉 [View on GitHub Pages](https://fajer-jbaee.github.io/luxtech-landing/)
 
 ## 🧱 Features
 - Elegant dark theme with golden highlights  
