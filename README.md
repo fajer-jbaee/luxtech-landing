@@ -21,4 +21,3 @@ Created to showcase a luxury tech brand with professional layout and animations.
 ---
 
 ✨ Designed and developed by **fajer jbaee**  
-📩 [Your LinkedIn or Instagram link here]
